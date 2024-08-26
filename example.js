@@ -1,0 +1,1 @@
+document.getElementById("headingele").textContent="4.0 WEB";
